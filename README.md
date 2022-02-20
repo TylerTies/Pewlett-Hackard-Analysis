@@ -12,7 +12,7 @@ This analysis looked at both the number of employees as well of the makeup of th
 
 - **Size:** The first major data point that jumps out from the analysis is the sheer size of the potential retirees from the three years in the analysis. There were 72,458 total employees in this dataset.  That's a massive undertaking in hiring alone.
 
-![Retiring Titles Summary](/data/retiring_titles_count.png)
+![Retiring Titles Summary](/Data/retiring_titles_count.png)
 
 - **Senior Positions:** The next point that was quickly apparent was the highly skilled positions in the retirement pool. The Senior Engineer position alone could potentially lose nearly 26k due to retirement. This could be filled with lower level employeees already in the company through promotions but may need to be heavily recruited if the current employee pool doesn't have enough candidates.
 
@@ -27,10 +27,10 @@ This analysis looked at both the number of employees as well of the makeup of th
 
 I wanted to further investigate the distribution among the departments of each population.  Using the existing tables from the analysis, I created the following queries to pull the distribution for each population.
 
-![Queries](/data/query_screenshot.png)
+![Queries](/Data/query_screenshot.png)
 
 The queries gave me the counts by department for each population.  I then put this into excel to format a table and compare the percent of total across the departments.
 
-![Department Breakout](/data/department_breakout.png)
+![Department Breakout](/Data/department_breakout.png)
 
 This confirmed that the mentor breakout across departments is fairly close to the breakout seen across the population of potential retirees.  The mentors appear to be located in the right departments.  My concern is the lack of mentors overall.  From the data above, it would appear the average mentor would need to cover over 45 new employees each.  More mentors may be needed depending on the experience and timing of new employees and whether these employees come from external to the company or are internal hires.
